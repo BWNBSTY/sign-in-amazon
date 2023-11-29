@@ -1,1 +1,1 @@
-# Sign in for amazon cline website
+# Sign in for amazon clone website
