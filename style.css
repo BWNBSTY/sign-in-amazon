@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.triangle {
+    font-size: 50px;
+    height: 30px;
+    color: aqua;
+}
+
+.container-2 {
+    background-color: aqua;
+    width: 40%;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+
+.container-2 a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding-bottom: 4px;
+}
+
+.container-2 a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.container-2 h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.sign-box a {
+    display: block;
+}
+
+.sign-in {
+    background-color: yellow;
+    height: 35px;
+    width: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.sign-box-12 {
+    display: flex;
+}
+
+.sign-box {
+    width: 50%;
+    padding: 0px 30px;
+}
+
+.sign-12 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    border-bottom: 1px solid black;
+}
+
+.sign2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.sign2 a {
+    color: blue;
+}
